@@ -1,4 +1,4 @@
-# Github - Serverless Analytics on AWS
+# Serverless Analytics on AWS
 #tutorials/pluralsight/serverless-analytics-on-aws
 
 Adapted from: [Serverless Analytics on AWS | Pluralsight](https://app.pluralsight.com/library/courses/serverless-analytics-aws/table-of-contents)
